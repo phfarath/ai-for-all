@@ -1,0 +1,16 @@
+{
+  "name": "AI Learning Platform",
+  "short_name": "AI Learning",
+  "description": "Plataforma de ensino de IA com FastAPI, React PWA e Supabase.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
