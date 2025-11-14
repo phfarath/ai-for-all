@@ -52,6 +52,12 @@ dist-ssr/
 logs/
 *.log
 
+# Database
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
 # Build outputs
 build/
 frontend/dist/
